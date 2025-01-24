@@ -70,6 +70,7 @@ https://flownet.com/ron/packages.pdf
 - Ultraspec (dead)
 - Simplified something something
 - The lisp cookbook
+- going beyond docstrings using SLIME's M-. [saved me in my only CL job interview]
 
 ** What the hell are pathnames?
 
