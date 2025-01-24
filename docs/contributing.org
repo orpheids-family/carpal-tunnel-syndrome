@@ -28,3 +28,12 @@ Explore the documentation.
 
 - [[id:14d42b3a-0a2f-4a3b-8937-7175e621c6ec][Design Decisions]]
 - [[id:11dd9906-75ff-4abc-82a5-b7dda0936f06][Roadmap]]
+
+* Cauterising GitHub
+** really? yeah, it's not fun anymore.
+
+Start by creating an Org, and forking this repo [ rename ;?
+then most importantly, goto Settings/ "Template Repository"
+
+The goal is reducing bothersome notifications because, I am
+obnoxious, clueless, and hated by my clients' DevOps jockey
